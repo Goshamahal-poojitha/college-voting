@@ -1,4 +1,4 @@
-# 🗳️ College Voting System
+# College Voting System
 
 The **College Voting System** is a simple web-based project developed as part of an RRP (Real-Time Research  Project) to automate student elections in a college. This system ensures a smooth, transparent, and efficient voting process using a clean user interface and basic web technologies.
 
